@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "Maikls@dzeksons.ru",
+      "name": "Maikls dzeksons",
+      "password": "hihi",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "password": "test",
+      "name": "tony montana",
+      "id": 2
+    },
+    {
+      "email": "test",
+      "password": "test",
+      "name": "test",
+      "id": 3
+    },
+    {
+      "email": "lohs",
+      "password": "lohs",
+      "name": "lohs",
+      "id": 4
+    },
+    {
+      "email": "kaka",
+      "password": "kaka",
+      "name": "kaka",
+      "id": 5
+    },
+    {
+      "email": "jahu@gmail.com",
+      "password": "1234",
+      "name": "nene",
+      "id": 6
+    },
+    {
+      "email": "g",
+      "password": "g",
+      "name": "g",
+      "id": 7
+    },
+    {
+      "email": "Emils@ozols.lv",
+      "password": "Beans123",
+      "name": "Emīls Ozols",
+      "id": 8
+    },
+    {
+      "email": "test",
+      "password": "test",
+      "name": "test",
+      "id": 9
+    }
+  ],
+  "company": [
+    {
+      "id": 2,
+      "name": "Apbedīšanas birojs zemē ",
+      "contact": "+69 111112",
+      "address": "Lienes iela 4"
+    },
+    {
+      "id": 3,
+      "name": "Bo on opt++",
+      "contact": "+69 111113",
+      "address": "Saldus iela 34"
+    },
+    {
+      "name": "bing chi ling",
+      "address": "wuhan",
+      "contact": "+1 123123111",
+      "id": 4
+    },
+    {
+      "name": "Ļoti legāls uzņēmums",
+      "address": "Ģertrūdes iela 49",
+      "contact": "+371 20123123",
+      "id": 5
+    },
+    {
+      "name": "Laiks iemesties!",
+      "address": "Valdemara 1c",
+      "contact": "+34112132",
+      "id": 6
+    }
+  ]
+}
